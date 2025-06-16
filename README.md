@@ -1,2 +1,2 @@
-# proc
+# psx
 process monitor command tool
